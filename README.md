@@ -120,9 +120,12 @@ Sorted Array:
 ```
 
 ## Links
-* [Bubble Sort documentation on Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
-* [Bubble Sort Algorithm](https://www.geeksforgeeks.org/bubble-sort/)
-* [Bubble Sort program in C#](https://www.tutorialspoint.com/Bubble-Sort-program-in-Chash)
+### Source Control – Git (with GitHub)
+* [Introduction to version control with Git](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/)
+* [Visual Studio version control docs](https://docs.microsoft.com/en-us/visualstudio/version-control/?wt.mc_id=learnredirect_githubvscode_content_cnl_csaapp&view=vs-2022)
+* [Build community-driven software projects on GitHub](https://docs.microsoft.com/en-gb/learn/paths/build-community-driven-projects-github/)
+### Azure Fundamentals
+* [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/azure-fundamentals/)
 
 ## Contributors
 * [Chipo Hamayobe](https://github.com/ChiefMonk) - Project Lead
