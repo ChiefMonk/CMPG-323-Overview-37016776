@@ -17,8 +17,11 @@ The main idea behind any branching strategy is to isolate the work into differen
 
 ## Repositories per Project
 The semester’s work plan consists of five (5) project deliverables. To distinctly plan and separate the commitments per deliverable, five(5) GitHub repositories have been created for the entire work of the semester:
-* Project 1 : <a href="https://github.com/ChiefMonk/CMPG-323-Overview-37016776"> https://github.com/ChiefMonk/CMPG-323-Overview-37016776</a> due on the 18 August 2022.
-* Project 2 : [https://github.com/ChiefMonk/CMPG-323-Overview-37016776](https://github.com/ChiefMonk/CMPG-323-Project-2-37016776) due on the 18 August 2022.
+* Project 1 : [CMPG-323-Overview-37016776](https://github.com/ChiefMonk/CMPG-323-Overview-37016776) due on 18 August 2022.
+* Project 2 : [CMPG-323-Project-2-37016776](https://github.com/ChiefMonk/CMPG-323-Project-2-37016776) due on 8 September 2022.
+* Project 3 : [CMPG-323-Project-3-37016776](https://github.com/ChiefMonk/CMPG-323-Project-3-37016776) due on the 29 September 2022.
+* Project 4 : [CMPG-323-Project-4-37016776](https://github.com/ChiefMonk/CMPG-323-Project-4-37016776) due on the 4 November 2022.
+* Project 5 : [CMPG-323-Project-5-37016776](https://github.com/ChiefMonk/CMPG-323-Project-5-37016776) due on the 5 November 2022.
 
 ## .gitignore File
 In general, Git sees every file in your working copy as one of three things:
