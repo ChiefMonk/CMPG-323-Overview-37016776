@@ -15,29 +15,29 @@ The main idea behind any branching strategy is to isolate the work into differen
 * <strong>release</strong> : Once a release is required for a particular environment (e.g. prod), a <strong>release</strong> branch will be created off the <strong>main</strong> branch and appropriately numbered and tagged.
 * <strong>hotfix</strong> : If an urgent bug has been discovered in a particular release or <strong>main</strong> branch, a <strong>hotfix</strong> branch will be created off that branch and the effective fix applied. Once applied, the code will then be merged back via pull-requests into the applicable branch, and where necessary also into the <strong>develop</strong> branch.
 
+## .gitignore File
+In general, Git sees every file in your working copy as one of three things:
+* tracked - a file which has been previously staged or committed;
+* untracked - a file which has not been staged or committed; or
+* ignored - a file which Git has been explicitly told to ignore.
+* 
+Ignored files are usually build artifacts and machine generated files that can be derived from your repository source or should otherwise not be committed. Some common examples are:
+* dependency caches, such as the contents of /node_modules or /packages
+* compiled code, such as .o, .pyc, and .class files
+* build output directories, such as /bin, /out, or /target
+* files generated at runtime, such as .log, .lock, or .tmp
+* hidden system files, such as .DS_Store or Thumbs.db
+* personal IDE config files, such as .idea/workspace.xml
 
-## Code Example
-Let us see an example with X elements in an array and sort it.
-```
-using System;
 
-
-
-## Output
-Sorted Array:
-```
-[ 13 45 55 78 98 ]
-```
 ## Contributors
-* [Chipo Hamayobe](https://github.com/ChiefMonk) - Project Lead
+* <a href="https://github.com/ChiefMonk">[Chipo Hamayobe]</a>(https://github.com/ChiefMonk) - Project Lead
 
 ## References
 ### Branching
 * [What is the best Git branch strategy?](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy))
-* [Visual Studio version control docs](https://docs.microsoft.com/en-us/visualstudio/version-control/?wt.mc_id=learnredirect_githubvscode_content_cnl_csaapp&view=vs-2022)
-* [Build community-driven software projects on GitHub](https://docs.microsoft.com/en-gb/learn/paths/build-community-driven-projects-github/)
-### Azure Fundamentals
-* [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/azure-fundamentals/)
+### .gitignore
+* [Git .gitignore File]([https://docs.microsoft.com/en-us/certifications/azure-fundamentals/](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore))
 
 
 
