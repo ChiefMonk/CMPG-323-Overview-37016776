@@ -1,13 +1,13 @@
 # CMPG 323 Project Overview
 <img src="https://github.com/ChiefMonk/CMPG-323-Overview-37016776/blob/main/nwu_logo.jpg" width="100" /> 
 
-Bubble sort is a simple sorting algorithm. This sorting algorithm is a comparison-based algorithm in which each pair of adjacent elements is compared and the elements are swapped if they are not in order.
+The overview document explains the overall project structure for the semester, and the general branching strategy for each project repository and also serves as a general guide to everything about this semester's projects for CMPG 323.
 
-## Explanation
-Let’s say our int has 5 elements −
-```
-int[] arr = { 78, 55, 45, 98, 13 };
-```
+## Project Structure
+For the work to be done this semester, a single <a href="https://github.com/users/ChiefMonk/projects/5">Kanban project</a> is created to outline and plan for all the work to be done. The scheduled work will be done over 8 Sprints, each lasting 10 working days (2 calendar weeks). At the beginning of every sprint, mostly on the first day, a sprint planning session is convened to categorise and itemise what will be done and allocate appropriate resources and time to each issue. 
+
+However, to properly manage the project and meet the various sprint deadlines, the work is further planned and divided weekly. This also helps to negate any time challenges that could be encountered over the 2-week fixed time period.
+ 
 
 Now, let us perform Bubble Sort.
 
