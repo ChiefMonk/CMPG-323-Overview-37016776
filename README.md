@@ -4,7 +4,7 @@
 The overview document explains the overall project structure for the semester, and the general branching strategy for each project repository and also serves as a general guide to everything about this semester's projects for CMPG 323.
 
 ## Project Structure
-For the work to be done this semester, a single <a href="https://github.com/users/ChiefMonk/projects/5">Kanban project</a> is created to outline and plan for all the work to be done. The scheduled work will be done over 8 Sprints, each lasting 10 working days (2 calendar weeks). At the beginning of every sprint, mostly on the first day, a sprint planning session is convened to categorise and itemise what will be done and allocate appropriate resources and time to each issue. 
+For the work to be done this semester, a single Kanban project (<a href="https://github.com/users/ChiefMonk/projects/5">CMPG 323 Semester Project Plan Kanban Guide</a>) is created to outline and plan for all the work to be done. The scheduled work will be done over 8 Sprints, each lasting 10 working days (2 calendar weeks). At the beginning of every sprint, mostly on the first day, a sprint planning session is convened to categorise and itemise what will be done and allocate appropriate resources and time to each issue. 
 
 However, to properly manage the project and meet the various sprint deadlines, the work is further planned and divided weekly. This also helps to negate any time challenges that could be encountered over the 2-week fixed time period.
  
@@ -14,6 +14,11 @@ The main idea behind any branching strategy is to isolate the work into differen
 * <strong>develop</strong> : will serve as the development branch code that will be merged into the <strong>main</strong> branch once properly tested. Any new work must be done on the <strong>develop</strong> 
 * <strong>release</strong> : Once a release is required for a particular environment (e.g. prod), a <strong>release</strong> branch will be created off the <strong>main</strong> branch and appropriately numbered and tagged.
 * <strong>hotfix</strong> : If an urgent bug has been discovered in a particular release or <strong>main</strong> branch, a <strong>hotfix</strong> branch will be created off that branch and the effective fix applied. Once applied, the code will then be merged back via pull-requests into the applicable branch, and where necessary also into the <strong>develop</strong> branch.
+
+## Repositories per Project
+The semester’s work plan consists of five (5) project deliverables. To distinctly plan and separate the commitments per deliverable, five(5) GitHub repositories have been created for the entire work of the semester:
+* Project 1 : <a href="https://github.com/ChiefMonk/CMPG-323-Overview-37016776"> https://github.com/ChiefMonk/CMPG-323-Overview-37016776</a> due on the 18 August 2022.
+* Project 2 : [https://github.com/ChiefMonk/CMPG-323-Overview-37016776](https://github.com/ChiefMonk/CMPG-323-Project-2-37016776) due on the 18 August 2022.
 
 ## .gitignore File
 In general, Git sees every file in your working copy as one of three things:
@@ -28,7 +33,6 @@ Ignored files are usually build artifacts and machine generated files that can b
 * files generated at runtime, such as .log, .lock, or .tmp
 * hidden system files, such as .DS_Store or Thumbs.db
 * personal IDE config files, such as .idea/workspace.xml
-
 
 ## Contributors
 * [Chipo Hamayobe](https://github.com/ChiefMonk) - Project Lead
