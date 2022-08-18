@@ -41,8 +41,12 @@ Ignored files are usually build artifacts and machine generated files that can b
 * [Chipo Hamayobe](https://github.com/ChiefMonk) - Project Lead
 
 ## References
+### Git/GitHub
+* [About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+* [About Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+* [CMPG 323 Semester Plan Kanban Guide by Jacqui Muller](https://github.com/users/JacquiM/projects/16)
 ### Branching
-* [What is the best Git branch strategy?](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy))
+* [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
 ### .gitignore
 * [Git .gitignore File](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 
