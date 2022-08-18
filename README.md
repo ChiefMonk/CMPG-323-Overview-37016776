@@ -10,10 +10,10 @@ However, to properly manage the project and meet the various sprint deadlines, t
  
 ## Branching Strategy
 The main idea behind any branching strategy is to isolate the work into different types of branches. There are lots of ways of structuring the braches to meet various organisational and strategic needs. However, for my project, only the following resource branches will be developed:
-* main – will serve as the master branch with the most current working, relatively non-buggy code.
-* develop – will serve as the development code that will be merged into the main branch once properly tested. 
-* release: Once a release is required for a particular environment (e.g. prod), a release branch will be created off the main branch and appropriately numbered and tagged.
-* hotfix: If an urgent bug has been discovered in a particular release or main branch, a hotfix branch will be created off that branch and the effective fix applied. Once applied, the code will then be merged back via pull-requests into the applicable branch, and where necessary also into the develop branch.
+* main : will serve as the master branch with the most current working, relatively non-buggy code.
+* develop : will serve as the development code that will be merged into the main branch once properly tested. 
+* release : Once a release is required for a particular environment (e.g. prod), a release branch will be created off the main branch and appropriately numbered and tagged.
+* <strong>hotfix</strong> : If an urgent bug has been discovered in a particular release or main branch, a hotfix branch will be created off that branch and the effective fix applied. Once applied, the code will then be merged back via pull-requests into the applicable branch, and where necessary also into the develop branch.
 
 
 ## Code Example
