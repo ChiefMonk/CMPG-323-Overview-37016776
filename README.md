@@ -23,6 +23,9 @@ The semester’s work plan consists of five (5) project deliverables. To distinc
 * Project 4 : [CMPG-323-Project-4-37016776](https://github.com/ChiefMonk/CMPG-323-Project-4-37016776) due on 4 November 2022.
 * Project 5 : [CMPG-323-Project-5-37016776](https://github.com/ChiefMonk/CMPG-323-Project-5-37016776) due on 5 November 2022.
 
+## Storing API and other Credentials
+Since all project releases will possibly be deployed to Microsofts's cloud porta, [Azure](https://azure.microsoft.com/en-us/), it will be appropriate and sufficient that all credentials and related secrets be stored in [Azure’s Key Vault](https://azure.microsoft.com/en-us/services/key-vault/). 
+
 ## .gitignore File
 In general, Git sees every file in your working copy as one of three things:
 * tracked - a file which has been previously staged or committed;
@@ -47,6 +50,8 @@ Ignored files are usually build artifacts and machine generated files that can b
 * [CMPG 323 Semester Plan Kanban Guide by Jacqui Muller](https://github.com/users/JacquiM/projects/16)
 ### Branching
 * [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
+### Credential Security
+* [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/)
 ### .gitignore
 * [Git .gitignore File](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 
