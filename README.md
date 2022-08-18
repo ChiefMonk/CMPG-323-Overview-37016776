@@ -31,13 +31,13 @@ Ignored files are usually build artifacts and machine generated files that can b
 
 
 ## Contributors
-* <a href="https://github.com/ChiefMonk">[Chipo Hamayobe]</a>(https://github.com/ChiefMonk) - Project Lead
+* [Chipo Hamayobe](https://github.com/ChiefMonk) - Project Lead
 
 ## References
 ### Branching
 * [What is the best Git branch strategy?](https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy))
 ### .gitignore
-* [Git .gitignore File]([https://docs.microsoft.com/en-us/certifications/azure-fundamentals/](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)](https://www.atlassian.com/git/tutorials/saving-changes/gitignore))
+* [Git .gitignore File](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 
 
 
